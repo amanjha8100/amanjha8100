@@ -5,9 +5,12 @@
 <p align="center">
 <img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="alt text" height="500px" width="500px">
 </p>
-<h3 align="right">Connect with me:</h3>
-<p align="right">
-<a href="https://www.codechef.com/users/amanjha8100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amanjha8100" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/amanjha8100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="amanjha8100" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amanjha8100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="amanjha8100" height="30" width="40" /></a>
-</p>
+<h3 align="right">Connect with me :</h3>
+<a href="https://www.linkedin.com/in/aman-prakash-jha-1549431a1/">
+  <img align="right" alt="Aman Prakash Jha - LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+</a>
+<a href="https://www.codechef.com/users/amanjha8100">
+  <img align="right" alt="Chiraag Kakar - Codechef" width="22px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/>
+</a>
+
+
