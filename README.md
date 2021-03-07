@@ -12,5 +12,6 @@
 <a href="https://www.codechef.com/users/amanjha8100">
   <img align="right" alt="Chiraag Kakar - Codechef" width="22px" src="https://api.iconify.design/simple-icons:codechef.svg?color=%2379553A"/>
 </a>
-
-
+<br>
+<br>
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=chiraag-kakar&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/chiraag-kakar"/>
