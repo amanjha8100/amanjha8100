@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanjha8100&label=Profile%20views&color=0e75b6&style=flat" alt="amanjha8100" /> </p>
 <p align="center">
-<img src="https://github.com/amanjha8100/amanjha8100/blob/main/github-home.png" alt="alt text" height="597px" width="953px">
+<img src="https://github.com/amanjha8100/amanjha8100/blob/main/github-home.png" alt="alt text" height="50%" width="97%px">
 </p>
 <h3 align="right">Connect with me :</h3>
 <a href="https://www.linkedin.com/in/aman-prakash-jha-1549431a1/">
